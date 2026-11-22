@@ -1,0 +1,8 @@
+{
+  "m": 20000,
+  "k": 24000,
+  "n": 16000,
+  "entries_per_input_row": 7,
+  "seed": 4110,
+  "peak_scratch_bytes": 8388608
+}
